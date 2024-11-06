@@ -1,0 +1,14 @@
+C:\Users\skodl\RiderProjects\ElectionApp\ElectionApp\bin\Debug\net8.0\ElectionApp.exe
+C:\Users\skodl\RiderProjects\ElectionApp\ElectionApp\bin\Debug\net8.0\ElectionApp.deps.json
+C:\Users\skodl\RiderProjects\ElectionApp\ElectionApp\bin\Debug\net8.0\ElectionApp.runtimeconfig.json
+C:\Users\skodl\RiderProjects\ElectionApp\ElectionApp\bin\Debug\net8.0\ElectionApp.dll
+C:\Users\skodl\RiderProjects\ElectionApp\ElectionApp\bin\Debug\net8.0\ElectionApp.pdb
+C:\Users\skodl\RiderProjects\ElectionApp\ElectionApp\obj\Debug\net8.0\ElectionApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skodl\RiderProjects\ElectionApp\ElectionApp\obj\Debug\net8.0\ElectionApp.AssemblyInfoInputs.cache
+C:\Users\skodl\RiderProjects\ElectionApp\ElectionApp\obj\Debug\net8.0\ElectionApp.AssemblyInfo.cs
+C:\Users\skodl\RiderProjects\ElectionApp\ElectionApp\obj\Debug\net8.0\ElectionApp.csproj.CoreCompileInputs.cache
+C:\Users\skodl\RiderProjects\ElectionApp\ElectionApp\obj\Debug\net8.0\ElectionApp.dll
+C:\Users\skodl\RiderProjects\ElectionApp\ElectionApp\obj\Debug\net8.0\refint\ElectionApp.dll
+C:\Users\skodl\RiderProjects\ElectionApp\ElectionApp\obj\Debug\net8.0\ElectionApp.pdb
+C:\Users\skodl\RiderProjects\ElectionApp\ElectionApp\obj\Debug\net8.0\ElectionApp.genruntimeconfig.cache
+C:\Users\skodl\RiderProjects\ElectionApp\ElectionApp\obj\Debug\net8.0\ref\ElectionApp.dll
